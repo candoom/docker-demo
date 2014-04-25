@@ -1,6 +1,6 @@
 # Dockerfile for python 
 # Version 1.0
-FROM ubuntu:quantal
+FROM ubuntu:latest
 
 MAINTAINER Lukas Pustina <lukas.pustina@centerdevice.com>
 
